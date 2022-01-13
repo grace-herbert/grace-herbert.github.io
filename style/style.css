@@ -89,11 +89,14 @@ body{
 
 .wdate{
     text-align: left;
+}                                                               
+.nav-item{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 
-
-
-
-
-
+.navbar-brand{
+    padding-top: 0%;
+}
